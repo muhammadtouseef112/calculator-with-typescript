@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h3{
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.button{
+    padding: 10px 35px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+input{
+    width: 20%;
+    height: 30px;
+    border-radius: 20px;
+    padding: 0px 10px;
+}
+body{
+    font-family: "Poppins", serif;
+    text-align: center;
+}
+h1{
+    font-size: 34px;
+    font-weight: 500;
+}
